@@ -1,10 +1,10 @@
 ## 🎵 내한공연 예매 & 굿즈 판매 사이트 🎵
 <br>
 
-> ### Ticket And Goods (TAG)
-><br>
-> [사이트 둘러보기](http://spacegray186.cafe24.com/home)
-➡⬅
+### Ticket And Goods (TAG)
+<br>
+➡ [사이트 둘러보기](http://spacegray186.cafe24.com/home) ⬅
+
 <br>
 <br>
 <br>
@@ -18,8 +18,3 @@
 | 담당업무 | 일반회원 마이페이지(상품 구매내역, 문의내역, 좋아요 리스트, 쿠폰 및 포인트내역), 회원정보 수정, 공지사항 |
 
 <br>
-
-
-[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
-
-[addr] : <http://spacegray186.cafe24.com/home>
