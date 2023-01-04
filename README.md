@@ -3,7 +3,7 @@
 
 > ### Ticket And Goods (TAG)
 ><br>
-> [사이트 둘러보기](http://spacegray186.cafe24.com/home)
+> ➡ [사이트 둘러보기][addr] ⬅
 
 <br>
 <br>
@@ -18,3 +18,4 @@
 | 담당업무 | 일반회원 마이페이지(상품 구매내역, 문의내역, 좋아요 리스트, 쿠폰 및 포인트내역), 회원정보 수정, 공지사항 |
 
 <br>
+[addr] : <http://spacegray186.cafe24.com/home>
