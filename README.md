@@ -2,7 +2,7 @@
 
 ### Ticket And Goods (TAG)
 
-
+<br><br><br>
 
 
 
@@ -16,7 +16,7 @@
 
 
 
+<br><br><br>
 
-
-‼‼‼➡[사이트 둘러보기](http://spacegray186.cafe24.com/home)⬅‼‼‼
+➡ [사이트 둘러보기](http://spacegray186.cafe24.com/home) ⬅
 
