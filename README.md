@@ -19,4 +19,4 @@
 
 <br>
 
-![공지사항 목록](file:///C:/Users/USER/OneDrive/%EC%82%AC%EC%A7%84/%ED%8F%AC%ED%8F%B4%20%EC%9E%AC%EB%A3%8C/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD%20%EB%AA%A9%EB%A1%9D.png)
+<img src="./img/mypageG.png" width="700">
