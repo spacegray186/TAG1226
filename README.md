@@ -51,14 +51,14 @@
 
 <img src="./img/mypage_cp.png" width="1200">
 👉 보유 쿠폰 내역 페이지입니다. <br>
-<br>
+<br><br>
 
 ### 2. 회원정보 수정
 <br>
 
 <img src="./img/updateG.png" width="1200">
 👉 회원정보 수정 페이지입니다. <br>
-<br>
+<br><br>
 
 ### 3. 공지사항
 <br>
@@ -69,7 +69,7 @@
 <br>
 
 <img src="./img/notice_details_m.png" width="1200">
-👉 공지사항 목록 상세 페이지입니다. <br>
+👉 공지사항 상세보기 페이지입니다. <br>
 👉 <b>관리자</b>로 로그인했을 때만 수정, 삭제 버튼이 보입니다. <br>
 
 
