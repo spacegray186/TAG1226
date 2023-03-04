@@ -18,3 +18,5 @@
 | 담당업무 | 일반회원 마이페이지(상품 구매내역, 문의내역, 좋아요 리스트, 쿠폰 및 포인트내역), 회원정보 수정, 공지사항 |
 
 <br>
+
+![공지사항 목록](file:///C:/Users/USER/OneDrive/%EC%82%AC%EC%A7%84/%ED%8F%AC%ED%8F%B4%20%EC%9E%AC%EB%A3%8C/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD%20%EB%AA%A9%EB%A1%9D.png)
