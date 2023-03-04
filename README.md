@@ -19,4 +19,37 @@
 
 <br>
 
-<img src="./img/mypageG.png" width="700">
+## 주요화면 캡처
+
+<br>
+
+# 마이페이지
+<img src="./img/mypageG.png" width="1200">
+
+상품 구매내역
+<img src="./img/mypage_pd.png" width="1200">
+<img src="./img/pd_details.png" width="1200">
+
+문의내역
+<img src="./img/mypage_qna.png" width="1200">
+좋아요 리스트
+<img src="./img/mypage_like.png" width="1200">
+쿠폰 내역
+<img src="./img/mypage_cp.png" width="1200">
+
+
+# 회원정보 수정
+<img src="./img/updateG.png" width="1200">
+
+# 공지사항
+<img src="./img/notice_list.png" width="1200">
+<img src="./img/notice_details_g.png" width="1200">
+<img src="./img/notice_details_m.png" width="1200">
+
+
+
+
+
+
+
+
