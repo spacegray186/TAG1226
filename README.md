@@ -26,6 +26,7 @@
 ### 1. 마이페이지
 <br>
 <img src="./img/mypageG.png" width="1200">
+<br>
 ####마이페이지의 첫페이지입니다.
 
 <img src="./img/mypage_pd.png" width="1200">
