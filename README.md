@@ -28,26 +28,26 @@
 
 <img src="./img/mypageG.png" width="1200">
 👉 마이페이지의 첫페이지입니다. <br>
-<br>
+<br><br>
 
 <img src="./img/mypage_pd.png" width="1200">
 👉 구매내역 페이지입니다. <br>
 👉 주문번호에 색상을 다르게 주었지만 확인하지 못할 경우를 대비하여, <br>
 👉 상단에 클릭을 유도하는 문구를 넣고 반짝이는 효과를 주었습니다. <br>
-<br>
+<br><br>
 
 <img src="./img/pd_details.png" width="1200">
 👉 구매 상세내역 페이지입니다. <br>
-<br>
+<br><br>
 
 <img src="./img/mypage_qna.png" width="1200">
 👉 나의 문의내역 페이지입니다. <br>
 👉 <b>Collapsible</b>을 이용하여 접었다 폈다 하기 쉽게 구현하였습니다. <br>
-<br>
+<br><br>
 
 <img src="./img/mypage_like.png" width="1200">
 👉 관심 공연 / 관심 상품 페이지입니다. <br>
-<br>
+<br><br>
 
 <img src="./img/mypage_cp.png" width="1200">
 👉 보유 쿠폰 내역 페이지입니다. <br>
@@ -66,12 +66,15 @@
 <img src="./img/notice_list.png" width="1200">
 👉 공지사항 목록 페이지입니다. <br>
 👉 <b>관리자</b>로 로그인했을 때만 글쓰기 버튼이 보입니다. <br>
-<br>
+<br><br>
 
 <img src="./img/notice_details_m.png" width="1200">
 👉 공지사항 상세보기 페이지입니다. <br>
 👉 <b>관리자</b>로 로그인했을 때만 수정, 삭제 버튼이 보입니다. <br>
+<br><br>
 
+감사합니다.
+<br>
 
 
 
